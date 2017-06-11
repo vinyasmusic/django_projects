@@ -22,7 +22,7 @@ Now run
 After this you will see options
 Enter the values according to your project requirements
 
-```
+
     project_name [Project Name]: VndlyClone
     project_slug [reddit_clone]: vndly
     author_name [Daniel Roy Greenfeld]: Reckonsys
@@ -61,7 +61,7 @@ Enter the values according to your project requirements
     5 - Not open source
     Choose from 1, 2, 3, 4, 5 [1]: 1
     use_elasticbeanstalk_experimental: n 
-```
+
 
 If using docker : 
 
