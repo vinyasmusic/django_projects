@@ -7,9 +7,11 @@ If you do not intend to use Docker, making a virtualenv is highly recommended.
 
 Create a virtual environment:
 
-` pip install virtualenv `
-` virtualenv project_env `
-` source /path_to_project_env_/bin/activate `
+```
+pip install virtualenv 
+virtualenv project_env 
+source /path_to_project_env_/bin/activate
+```
 
 Install cookiecutter
 
