@@ -21,15 +21,16 @@ Now run
 
 ` cookiecutter https://github.com/pydanny/cookiecutter-django `
 
-After this you will see options
+After this you will see options.
+
 Enter the values according to your project requirements
 
 
-    project_name [Project Name]: VndlyClone
-    project_slug [reddit_clone]: vndly
-    author_name [Daniel Roy Greenfeld]: Reckonsys
-    email [you@example.com]: pydanny@gmail.com
-    description [A short description of the project.]: A vndly clone.
+    project_name [Project Name]: RedditClone
+    project_slug [reddit_clone]: redditclone
+    author_name [Daniel Roy Greenfeld]: Vinyas
+    email [you@example.com]: vinyasmusic@gmail.com
+    description [A short description of the project.]: This project is a dummy.
     domain_name [example.com]: myreddit.com
     version [0.1.0]: 0.0.1
     timezone [UTC]: Asia/Kolkata
